@@ -11,10 +11,9 @@ void setup();
 void loop();
 
 
-/* ===================== LCD (HD44780 16x2) ===================== */
+/* ===================== LCD (16x2) ===================== */
 LiquidCrystal lcd(LCD_RS, LCD_E, LCD_D4, LCD_D5, LCD_D6, LCD_D7);
 
-/* ===================== Global state (kept identical) ===================== */
 const int backlightPin = LCD_BACKLIGHT_PIN;
 
 // LED

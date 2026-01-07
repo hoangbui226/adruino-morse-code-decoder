@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arduino Morse Code Translator with LCD
 
 ## 📌 Overview
@@ -94,7 +95,7 @@ digital I/O, timing-based logic, LCD interfacing, and hardware–software integr
 pio run
 pio run -t upload
 pio device monitor -b 9600
-
+```
 ---
 
 ## 🧠 Implementation Notes
@@ -123,3 +124,7 @@ VAMK Embedded Systems Student (2nd Year)
 
 ## 📄 License
 This project is for educational purposes only.
+=======
+# Morse-Code-Decoder
+This is my project where I made a morse code decoder using Adruino and a couple of electronic components
+>>>>>>> 6a8375a443f638b5bc0f20f7e4a3949de825c811
